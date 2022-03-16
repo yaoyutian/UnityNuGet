@@ -181,6 +181,14 @@
     "listed": true,
     "version": "1.2.0"
   },
+  "Microsoft.Azure.Kinect.BodyTracking":{
+	"listed": true,
+    "version": "1.1.1"
+  },
+  "Microsoft.Azure.Kinect.BodyTracking.ONNXRuntime":{
+	"listed": true,
+    "version": "1.10.0"
+  },
   "Microsoft.Bcl.AsyncInterfaces": {
     "listed": true,
     "version": "1.0.0"
